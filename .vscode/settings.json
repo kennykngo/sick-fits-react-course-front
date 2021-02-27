@@ -1,0 +1,30 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#FFC600",
+    "titleBar.inactiveBackground": "#FFC600CC"
+  },
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.disableLanguages": ["javascript", "javascriptreact"],
+  "editor.fontFamily": "Fira Code",
+  // "editor.fontFamily": "FiraCode-Retina",
+  // "editor.fontFamily": "Operator Mono Lig",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  // "editor.fontWeight": "300",
+  "vscode_custom_css.imports": [
+    "file:///Users/kennyngo/vscode-css/vscode_operator_mono_lig-master/vscode_style.css"
+  ],
+  "vscode_custom_css.policy": true
+}
